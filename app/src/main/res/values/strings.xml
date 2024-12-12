@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoppuprojektiSovOhj</string>
+    <string name="enter_city">Enter city name</string>
+    <string name="fetch_weather">Fetch Weather</string>
+    <string name="fetch_location_weather">Fetch Weather by Location</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="temperature">Temperature</string>
+    <string name="feels_like">Feels like</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="weather_description">Description</string>
+    <string name="error_fetching_weather">Error fetching weather data</string>
+    <string name="about_app">About App</string>
+    <string name="visit_openweathermap">Visit OpenWeatherMap</string>
+    <string name="back_to_weather">Back to Weather</string>
+    <string name="api_info">This app uses OpenWeatherMap API to fetch weather data.</string>
+    <!-- Weather descriptions -->
+    <string name="clear_sky">Clear sky</string>
+    <string name="few_clouds">Few clouds</string>
+    <string name="scattered_clouds">Scattered clouds</string>
+    <string name="broken_clouds">Broken clouds</string>
+    <string name="shower_rain">Shower rain</string>
+    <string name="rain">Rain</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="snow">Snow</string>
+    <string name="mist">Mist</string>
+</resources>

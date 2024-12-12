@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoppuprojektiSovOhj</string>
+    <string name="enter_city">Syötä kaupungin nimi</string>
+    <string name="fetch_weather">Hae säätiedot</string>
+    <string name="fetch_location_weather">Hae sää sijainnin perusteella</string>
+    <string name="location_permission_denied">Sijaintilupa evätty</string>
+    <string name="temperature">Lämpötila</string>
+    <string name="feels_like">Tuntuu kuin</string>
+    <string name="wind_speed">Tuulen nopeus</string>
+    <string name="weather_description">Kuvaus</string>
+    <string name="error_fetching_weather">Virhe haettaessa säätietoja</string>
+    <string name="about_app">Tietoja sovelluksesta</string>
+    <string name="visit_openweathermap">Avaa OpenWeatherMap</string>
+    <string name="back_to_weather">Takaisin säätietoihin</string>
+    <string name="api_info">Tämä sovellus käyttää OpenWeatherMap APIa säätietojen hakemiseen.</string>
+    <!-- Weather descriptions -->
+    <string name="clear_sky">Selkeää</string>
+    <string name="few_clouds">Vähän pilviä</string>
+    <string name="scattered_clouds">Hajanaisia pilviä</string>
+    <string name="broken_clouds">Rikkinäisiä pilviä</string>
+    <string name="shower_rain">Sadekuuroja</string>
+    <string name="rain">Sataa</string>
+    <string name="thunderstorm">Ukkosta</string>
+    <string name="snow">Lunta</string>
+    <string name="mist">Sumua</string>
+</resources>
